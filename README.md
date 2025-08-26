@@ -2,6 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
 
+## Read the full article at
+
+https://dev.to/stevsharp/building-a-pubsub-system-in-net-masstransit-reactive-extensions-and-blockingcollection-2i6a
+
+
 # DotNet-PubSub-Examples
 
 This repository contains **three different implementations of the Publish/Subscribe (Pub/Sub) pattern in .NET**.  
