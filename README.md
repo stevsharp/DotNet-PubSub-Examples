@@ -1,3 +1,7 @@
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
+
 # DotNet-PubSub-Examples
 
 This repository contains **three different implementations of the Publish/Subscribe (Pub/Sub) pattern in .NET**.  
@@ -87,3 +91,8 @@ Sample output:
 [Email] Send receipt to user49.50@example.com
 [Analytics] Track order ...
 ```
+
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
