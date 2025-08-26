@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{362AF5AE-87DE-4818-A78E-B87264DC9E5E}|MassTransitDemo\\MassTransitDemo.csproj|c:\\github\\dotnetpubsub-examples\\dotnet-pubsub-examples\\dotnet-pubsub-examples.sln\\masstransitdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362AF5AE-87DE-4818-A78E-B87264DC9E5E}|MassTransitDemo\\MassTransitDemo.csproj|solutionrelative:masstransitdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362AF5AE-87DE-4818-A78E-B87264DC9E5E}|MassTransitDemo\\MassTransitDemo.csproj|c:\\github\\dotnetpubsub-examples\\dotnet-pubsub-examples\\dotnet-pubsub-examples.sln\\masstransitdemo\\consumer\\ordersubmittedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362AF5AE-87DE-4818-A78E-B87264DC9E5E}|MassTransitDemo\\MassTransitDemo.csproj|solutionrelative:masstransitdemo\\consumer\\ordersubmittedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51481CAA-828C-4814-A7CC-BD117D9589AF}|BlockingCollectionDemo\\BlockingCollectionDemo.csproj|c:\\github\\dotnetpubsub-examples\\dotnet-pubsub-examples\\dotnet-pubsub-examples.sln\\blockingcollectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51481CAA-828C-4814-A7CC-BD117D9589AF}|BlockingCollectionDemo\\BlockingCollectionDemo.csproj|solutionrelative:blockingcollectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D118EF8-B5F9-4CB5-AB3E-3B8B95A3F024}|ReactiveExtensionsDemo\\ReactiveExtensionsDemo.csproj|c:\\github\\dotnetpubsub-examples\\dotnet-pubsub-examples\\dotnet-pubsub-examples.sln\\reactiveextensionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D118EF8-B5F9-4CB5-AB3E-3B8B95A3F024}|ReactiveExtensionsDemo\\ReactiveExtensionsDemo.csproj|solutionrelative:reactiveextensionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8194698E-A956-4D46-AF85-F9F3042B30FA}|Shared\\Shared.csproj|c:\\github\\dotnetpubsub-examples\\dotnet-pubsub-examples\\dotnet-pubsub-examples.sln\\shared\\ordersubmitted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8194698E-A956-4D46-AF85-F9F3042B30FA}|Shared\\Shared.csproj|solutionrelative:shared\\ordersubmitted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362AF5AE-87DE-4818-A78E-B87264DC9E5E}|MassTransitDemo\\MassTransitDemo.csproj|c:\\github\\dotnetpubsub-examples\\dotnet-pubsub-examples\\dotnet-pubsub-examples.sln\\masstransitdemo\\publisher\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362AF5AE-87DE-4818-A78E-B87264DC9E5E}|MassTransitDemo\\MassTransitDemo.csproj|solutionrelative:masstransitdemo\\publisher\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D118EF8-B5F9-4CB5-AB3E-3B8B95A3F024}|ReactiveExtensionsDemo\\ReactiveExtensionsDemo.csproj|c:\\github\\dotnetpubsub-examples\\dotnet-pubsub-examples\\dotnet-pubsub-examples.sln\\reactiveextensionsdemo\\reactiveextensionsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D118EF8-B5F9-4CB5-AB3E-3B8B95A3F024}|ReactiveExtensionsDemo\\ReactiveExtensionsDemo.csproj|solutionrelative:reactiveextensionsdemo\\reactiveextensionsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362AF5AE-87DE-4818-A78E-B87264DC9E5E}|MassTransitDemo\\MassTransitDemo.csproj|c:\\github\\dotnetpubsub-examples\\dotnet-pubsub-examples\\dotnet-pubsub-examples.sln\\masstransitdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{362AF5AE-87DE-4818-A78E-B87264DC9E5E}|MassTransitDemo\\MassTransitDemo.csproj|solutionrelative:masstransitdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362AF5AE-87DE-4818-A78E-B87264DC9E5E}|MassTransitDemo\\MassTransitDemo.csproj|c:\\github\\dotnetpubsub-examples\\dotnet-pubsub-examples\\dotnet-pubsub-examples.sln\\masstransitdemo\\masstransitdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{362AF5AE-87DE-4818-A78E-B87264DC9E5E}|MassTransitDemo\\MassTransitDemo.csproj|solutionrelative:masstransitdemo\\masstransitdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8194698E-A956-4D46-AF85-F9F3042B30FA}|Shared\\Shared.csproj|c:\\github\\dotnetpubsub-examples\\dotnet-pubsub-examples\\dotnet-pubsub-examples.sln\\shared\\publisheroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8194698E-A956-4D46-AF85-F9F3042B30FA}|Shared\\Shared.csproj|solutionrelative:shared\\publisheroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 389,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\BlockingCollectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "BlockingCollectionDemo\\Program.cs",
+              "ToolTip": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\BlockingCollectionDemo\\Program.cs",
+              "RelativeToolTip": "BlockingCollectionDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:12:59.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PublisherOptions.cs",
+              "DocumentMoniker": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\Shared\\PublisherOptions.cs",
+              "RelativeDocumentMoniker": "Shared\\PublisherOptions.cs",
+              "ToolTip": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\Shared\\PublisherOptions.cs",
+              "RelativeToolTip": "Shared\\PublisherOptions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:09:03.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderSubmitted.cs",
+              "DocumentMoniker": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\Shared\\OrderSubmitted.cs",
+              "RelativeDocumentMoniker": "Shared\\OrderSubmitted.cs",
+              "ToolTip": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\Shared\\OrderSubmitted.cs",
+              "RelativeToolTip": "Shared\\OrderSubmitted.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:07:34.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReactiveExtensionsDemo",
+              "DocumentMoniker": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\ReactiveExtensionsDemo\\ReactiveExtensionsDemo.csproj",
+              "RelativeDocumentMoniker": "ReactiveExtensionsDemo\\ReactiveExtensionsDemo.csproj",
+              "ToolTip": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\ReactiveExtensionsDemo\\ReactiveExtensionsDemo.csproj",
+              "RelativeToolTip": "ReactiveExtensionsDemo\\ReactiveExtensionsDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T08:05:56.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\ReactiveExtensionsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ReactiveExtensionsDemo\\Program.cs",
+              "ToolTip": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\ReactiveExtensionsDemo\\Program.cs",
+              "RelativeToolTip": "ReactiveExtensionsDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:05:52.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublisherService.cs",
+              "DocumentMoniker": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\MassTransitDemo\\Publisher\\PublisherService.cs",
+              "RelativeDocumentMoniker": "MassTransitDemo\\Publisher\\PublisherService.cs",
+              "ToolTip": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\MassTransitDemo\\Publisher\\PublisherService.cs",
+              "RelativeToolTip": "MassTransitDemo\\Publisher\\PublisherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T07:55:55.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderSubmittedConsumer.cs",
+              "DocumentMoniker": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\MassTransitDemo\\Consumer\\OrderSubmittedConsumer.cs",
+              "RelativeDocumentMoniker": "MassTransitDemo\\Consumer\\OrderSubmittedConsumer.cs",
+              "ToolTip": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\MassTransitDemo\\Consumer\\OrderSubmittedConsumer.cs",
+              "RelativeToolTip": "MassTransitDemo\\Consumer\\OrderSubmittedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T07:53:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\MassTransitDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MassTransitDemo\\Program.cs",
+              "ToolTip": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\MassTransitDemo\\Program.cs",
+              "RelativeToolTip": "MassTransitDemo\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T07:50:58.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\MassTransitDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "MassTransitDemo\\appsettings.json",
+              "ToolTip": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\MassTransitDemo\\appsettings.json",
+              "RelativeToolTip": "MassTransitDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T07:50:17.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MassTransitDemo",
+              "DocumentMoniker": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\MassTransitDemo\\MassTransitDemo.csproj",
+              "RelativeDocumentMoniker": "MassTransitDemo\\MassTransitDemo.csproj",
+              "ToolTip": "C:\\github\\DotNetPubSub-Examples\\DotNet-PubSub-Examples\\DotNet-PubSub-Examples.sln\\MassTransitDemo\\MassTransitDemo.csproj",
+              "RelativeToolTip": "MassTransitDemo\\MassTransitDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T07:49:45.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
