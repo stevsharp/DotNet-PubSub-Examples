@@ -35,3 +35,55 @@ Run RabbitMQ locally with Docker:
 
 ```bash
 docker run -it --rm -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+```
+
+RabbitMQ Management UI → http://localhost:15672
+ (user: guest, pass: guest)
+
+Run the demo:
+```bash
+cd MassTransitDemo
+dotnet run
+```
+2. ReactiveExtensionsDemo
+
+📂 Path: /ReactiveExtensionsDemo
+
+Uses System.Reactive
+
+Demonstrates in-memory event streams with Subject<T>
+
+Multiple subscribers react to the same published messages
+
+Run the demo:
+```bash
+cd ReactiveExtensionsDemo
+dotnet run
+```
+Sample output:
+
+[Email] Send receipt to a@example.com
+[Analytics] Order ... VAT 35.76
+...
+
+3. BlockingCollectionDemo
+
+📂 Path: /BlockingCollectionDemo
+
+Uses .NET BlockingCollection
+
+Implements a thread-safe producer/consumer queue
+
+Multiple subscribers consume messages concurrently
+
+Run the demo:
+```bash
+cd BlockingCollectionDemo
+dotnet run
+```
+
+Sample output:
+```bash
+[Email] Send receipt to user49.50@example.com
+[Analytics] Track order ...
+```
